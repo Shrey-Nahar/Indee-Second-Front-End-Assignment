@@ -34,7 +34,6 @@ h1 {
   width: 16.2%;
   height: 500px;
   border-radius: 10px 10px 10px 10px;
-  opacity: 0px;
   background: linear-gradient(90deg, #1c1c1e 33.33%, #121212 65.62%);
   box-shadow: 0px 4px 4px 0px #00000040;
 }
@@ -123,7 +122,6 @@ h1 {
 
 .carousel-enter {
   transform: translateX(-100%);
-  opacity: 0;
 }
 
 .carousel-enter-to {
@@ -138,7 +136,7 @@ h1 {
 
 .carousel-leave-to {
   transform: translateX(100%);
-  opacity: 0;
+
 }
 
 @media screen and (width: 1440px) and (height: 725px) {
