@@ -122,7 +122,6 @@ h1 {
 
 .carousel-enter {
   transform: translateX(-100%);
-  opacity: 0;
 }
 
 .carousel-enter-to {
@@ -137,7 +136,7 @@ h1 {
 
 .carousel-leave-to {
   transform: translateX(100%);
-  opacity: 0;
+
 }
 
 @media screen and (width: 1440px) and (height: 725px) {
