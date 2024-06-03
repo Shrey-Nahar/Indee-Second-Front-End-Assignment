@@ -11,6 +11,9 @@ Here is how the component looks on different devices:
   <img src="https://drive.google.com/uc?export=view&id=1Ysb74vspQMFsu8I-evTWVrQ7pK6IoGwu" alt="Laptop and Mobile View" style="width: 30%;">
 </div>
 
+## Website Link
+Here is the deployed link for the Swimlane Component: [Link](https://shrey-nahar.github.io/Indee-Second-Front-End-Assignment/)
+
 ## Features
 - **Header:** Displays a title "Most-watched films".
 - **Carousel:** Cycles through two sets of images with associated text.
