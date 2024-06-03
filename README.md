@@ -1,6 +1,16 @@
 # Vue.js Swimlane Component
 This repository contains a Vue.js component that displays a carousel of images with associated text, highlighting "Most-watched films". The carousel allows users to navigate through different sets of images, with specific images labeled as "NEW".
 
+## Responsive Design
+
+Here is how the component looks on different devices:
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://drive.google.com/uc?export=view&id=1JMjvUbxbQ4ZJ2TRtFe7oL68KMtmeJ7Wf" alt="Tablet View" style="width: 30%;">
+  <img src="https://drive.google.com/uc?export=view&id=1-JTljYis43HZqDDD5n9pS1yF4ThApjB2" alt="IMac" style="width: 30%;">
+  <img src="https://drive.google.com/uc?export=view&id=1Ysb74vspQMFsu8I-evTWVrQ7pK6IoGwu" alt="Laptop and Mobile View" style="width: 30%;">
+</div>
+
 ## Features
 - **Header:** Displays a title "Most-watched films".
 - **Carousel:** Cycles through two sets of images with associated text.
