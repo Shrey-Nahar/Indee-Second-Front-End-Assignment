@@ -26,6 +26,9 @@
         :style="getImageStyle(index)"
         role="listitem"
         tabindex="0"
+        draggable="true"
+          @dragstart="dragStart($event, image)"
+          @drag="drag($event)"
       >
         <!-- Image element with the current image in the loop -->
         <img
@@ -34,9 +37,7 @@
           :alt="imageTexts[index]"
           role="img"
           aria-label="Image of a film"
-          draggable="true"
-          @dragstart="dragStart($event, image)"
-          @drag="drag($event)"
+          
         />
 
         <!-- Conditionally rendered "NEW" label -->
