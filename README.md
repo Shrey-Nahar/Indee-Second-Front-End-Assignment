@@ -14,6 +14,9 @@ Here is how the component looks on different devices:
 ## Website Link
 Here is the deployed link for the Swimlane Component: [Link](https://shrey-nahar.github.io/Indee-Second-Front-End-Assignment/)
 
+## Video Link
+Here is a video explanation of all the features, how to run the component, and its responsiveness: [Video](https://drive.google.com/file/d/1tFMcTD66wVZ1wq-j0vK_Cr4w37vh66mt/view?usp=drive_link)
+
 ## Features
 - **Header:** Displays a title "Most-watched films".
 - **Carousel:** Cycles through two sets of images with associated text.
