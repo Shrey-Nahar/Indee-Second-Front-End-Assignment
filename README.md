@@ -6,9 +6,9 @@ This repository contains a Vue.js component that displays a carousel of images w
 Here is how the component looks on different devices:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://drive.google.com/uc?export=view&id=1JMjvUbxbQ4ZJ2TRtFe7oL68KMtmeJ7Wf" alt="Tablet View" style="width: 30%;">
-  <img src="https://drive.google.com/uc?export=view&id=1-JTljYis43HZqDDD5n9pS1yF4ThApjB2" alt="IMac" style="width: 30%;">
-  <img src="https://drive.google.com/uc?export=view&id=1Ysb74vspQMFsu8I-evTWVrQ7pK6IoGwu" alt="Laptop and Mobile View" style="width: 30%;">
+  <img src="https://drive.google.com/uc?export=view&id=1JMjvUbxbQ4ZJ2TRtFe7oL68KMtmeJ7Wf" alt="Tablet View" style="width: 33%;">
+  <img src="https://drive.google.com/uc?export=view&id=1yafgDZLdUm4CfR-LG3XN8M-_a37iCWXm" alt="IMac" style="width: 33%;">
+  <img src="https://drive.google.com/uc?export=view&id=1Ysb74vspQMFsu8I-evTWVrQ7pK6IoGwu" alt="Laptop and Mobile View" style="width: 33%;">
 </div>
 
 ## Features
